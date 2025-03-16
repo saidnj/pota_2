@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/porta_actu/', 
+  base: '/portafo_actual/', 
   build: {
     outDir: 'dist'
   }
